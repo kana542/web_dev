@@ -1,4 +1,3 @@
-// odotetaan että koko html sivusto ensiksi latautunut
 document.addEventListener('DOMContentLoaded', function() {
     let participants = parseInt(prompt("Kuinka monta pelaajaa: "));
     let names = []

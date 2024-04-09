@@ -1,4 +1,3 @@
-// odotetaan että koko html sivusto ensiksi latautunut
 document.addEventListener('DOMContentLoaded', function() {
     let list = [];
     let state = true;
